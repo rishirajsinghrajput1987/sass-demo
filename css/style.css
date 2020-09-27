@@ -1,0 +1,58 @@
+h1 {
+  color: purple;
+  border: 2px dotted purple;
+  background-color: #000; }
+
+p {
+  color: purple;
+  border: 2px dotted purple;
+  background-color: #000; }
+
+small {
+  color: purple;
+  border: 2px dotted purple;
+  background-color: #000; }
+
+.menu {
+  background-color: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .menu ul {
+    margin: 0 auto;
+    width: 50%;
+    list-style: none;
+    margin: 0px;
+    padding: 0px; }
+    .menu ul li {
+      padding: 10px;
+      border: 1px solid red;
+      display: inline-block; }
+      .menu ul li a {
+        color: red;
+        text-decoration: none;
+        text-transform: uppercase; }
+
+.headings h1 {
+  color: orange;
+  background-color: red; }
+
+.headings h2 {
+  color: white;
+  background-color: red; }
+
+.headings h3 {
+  color: blue;
+  background-color: red; }
+
+.headings h4 {
+  color: yellow;
+  background-color: red; }
+
+.headings h5 {
+  color: purple;
+  background-color: red; }
+
+.headings h6 {
+  color: white;
+  background-color: red; }

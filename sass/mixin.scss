@@ -1,0 +1,5 @@
+@mixin commonProperty {
+	color: $color-blue;
+	border: 2px dotted $color-blue;
+	background-color: #000;
+}
